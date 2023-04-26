@@ -887,7 +887,7 @@ nav.show {
     display: grid;
     -ms-grid-columns: 40% 30% 30%;
     grid-template-columns: 40% 30% 30%;
-    font-size: 30px;
+    font-size: 17px;
   }
 }
 
